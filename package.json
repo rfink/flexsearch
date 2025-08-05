@@ -33,7 +33,7 @@
   "exports": {
     ".": {
       "types": "./index.d.ts",
-      "import": "./dist/flexsearch.bundle.module.min.js",
+      "import": "./dist/flexsearch.bundle.module.min.mjs",
       "require": "./dist/flexsearch.bundle.min.js"
     },
     "./lang/*": {
